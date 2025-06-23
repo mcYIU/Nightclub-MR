@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829a53fd46c3974fa9121c6b519f924, type: 3}
+  m_Name: Customer04
+  m_EditorClassIdentifier: 
+  voiceOverText: []
+  voiceOverAudio: {fileID: 0}
+  characterText:
+  - "\u9019\u6E9C\u5152\u90A3\u5E7E\u500B\u5168\u662F\u5FEB\u6A02\u4EBA\uFF01"
+  - "\u4F60\u77A7\uFF0C\u9EC3\u9EDB\u831C\u548C\u80E1\u5747\u76CA\uFF0C"
+  - "\u9084\u6709\u4ED6\u5011\u5C0D\u9762\u7684\u90A3\u5169\u500B\uFF0C"
+  - "\u8DF3\u5F97\u591A\u6709\u52C1\uFF01"
+  characterAudio: {fileID: 8300000, guid: dbb80e73b9ef2f5439d3623c94e9f127, type: 3}
+  isVoiceOverPlayed: 0

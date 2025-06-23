@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829a53fd46c3974fa9121c6b519f924, type: 3}
+  m_Name: MiuCD_LV1
+  m_EditorClassIdentifier: 
+  voiceOverText:
+  - "\u518D\u770B\u4E86\u5169\u904D\uFF0C\u64A4\u8077\u66F8\u9084\u662F\u64A4\u8077\u66F8\u3002"
+  - "\u5634\u5507\u7834\u4E86\u7684\u6642\u5019\uFF0C\u58A8\u6C34\u5323\u88E1\u7684\u58A8\u4ED6\u4E0D\u7528\u518D\u78E8\u4E86\u3002"
+  - "\u5634\u5507\u7834\u4E86\u7684\u6642\u5019\u3001\u6703\u8A08\u79D1\u4E3B\u4EFB\u628A\u4ED6\u7684\u85AA\u6C34\u9001\u4F86\u4E86\u3002"
+  voiceOverAudio: {fileID: 8300000, guid: 460f825abea69714e91a79e118cb782e, type: 3}
+  characterText:
+  - "\u4E0B\u500B\u79AE\u62DC\uFF0C\u6211\u5C31\u81EA\u7531\u4E86\uFF0C\u7BA1\u4ED6\u5462\uFF01"
+  - "\u559D\u500B\u75DB\u5FEB\u5427\uFF01.\u9019\u5F35\u7D19\u4E5F\u71D2\u4E86\u5427\u3002"
+  characterAudio: {fileID: 8300000, guid: 225104a24a575aa4781eb8d89d392820, type: 3}
+  isVoiceOverPlayed: 0

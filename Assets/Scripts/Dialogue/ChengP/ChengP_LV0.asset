@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829a53fd46c3974fa9121c6b519f924, type: 3}
+  m_Name: ChengP_LV0
+  m_EditorClassIdentifier: 
+  voiceOverText:
+  - "\u4ED6\u662F\u4E00\u500B\u5931\u6200\u7684\u5B78\u751F\uFF0C.\u4ED6\u7684\u611B\u4EBA\u6797\u59AE\u5A1C\u548C\u9577\u817F\u6C6A\u5728\u4E00\u8D77\u4E86\u3002"
+  - "\u5728\u4E00\u4E5D\u4E09\u4E8C\u5E74\u56DB\u6708\u516D\u65E5\u7684\u661F\u671F\u516D\u665A\u4E0A\uFF0C\u4ED6\u5931\u795E\u843D\u9B44\u5730\u8D70\u9032\u591C\u7E3D\u6703\u3002"
+  - "\u672C\u4F86\u60F3\u9EBB\u9189\u81EA\u5DF1\uFF0C\u4ED6\u537B\u770B\u5230\u6797\u59AE\u5A1C\u7684\u624B\u7DCA\u6263\u8457\u9577\u817F\u6C6A\u7684\u80F3\u818A\u4E0A\u3002"
+  voiceOverAudio: {fileID: 8300000, guid: c679c7d68232fc648ab9299bb042d323, type: 3}
+  characterText:
+  - "\u5632\u7B11\u6211\u5427\uFF0C\u6211\u88AB\u62CB\u68C4\u4E86\u3002"
+  - "\u70BA\u4E86\u5979\uFF0C\u6211\u9023\u982D\u9AEE\u90FD.\u6101\u767D\u4E86\u3002"
+  - "\u66F4\u6349\u5F04\u4EBA\u7684\u662F\uFF0C\u73FE\u5728\u5979\u9084\u5750\u5728\u5C0D\u9762\uFF0C"
+  - "\u548C\u90A3\u500B\u7537\u4EBA\u537F\u537F\u6211\u6211\u3002"
+  characterAudio: {fileID: 8300000, guid: 0694f96d3fb312343aa2479900f2eff1, type: 3}
+  isVoiceOverPlayed: 0

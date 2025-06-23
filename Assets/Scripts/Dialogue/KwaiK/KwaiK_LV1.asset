@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829a53fd46c3974fa9121c6b519f924, type: 3}
+  m_Name: KwaiK_LV1
+  m_EditorClassIdentifier: 
+  voiceOverText:
+  - "\u5634\u5507\u788E\u4E86\u7684\u6642\u5019\uFF0C.\u5404\u7A2E\u7248\u672C\u7684\u300AHamlet\u300B\u7B11\u4E86\u3002"
+  - "\u5634\u5507\u788E\u4E86\u7684\u6642\u5019\uFF0C\u4ED6\u81EA\u5BB6\u5152\u4E5F\u8B8A\u4E86\u7159\u5F80\u4E0A\u9A30\u4E86\u3002"
+  voiceOverAudio: {fileID: 8300000, guid: 5516a35b1df5f054a9bc8f7f7f5506d5, type: 3}
+  characterText:
+  - "\u300C\u6709\u751F\u5373\u6709\u6B7B\uFF0C\u7D93\u904E\u5875\u4E16\u4EE5\u9054\u65BC\u6C38\u6046\u3002\u300D"
+  - "\u4EBA\u985E\u8981\u901A\u5F80.\u300A\u54C8\u59C6\u96F7\u7279\u300B\u88E1\u6240\u8AAA\u7684\u6C38\u6046\uFF0C\u9700\u8981\u591A\u5C11\u6642\u9593\uFF1F"
+  - "\u4E00\u79D2\u9418\u53EF\u4EE5\u628A\u4E00\u6839\u706B\u67F4\u62D7\u6210\u5169\u6839\uFF0C\u4E00\u500B\u9418\u982D\u53EF\u62D7\u65B7\u5169\u76D2\u3002"
+  - "\u90A3\u8981\u62D7\u65B7\u591A\u5C11\u76D2\u706B\u67F4\u624D\u80FD\u901A\u5F80\u6C38\u6046\uFF1F"
+  characterAudio: {fileID: 8300000, guid: 83e85fae2453a5e4c85f15259655dce8, type: 3}
+  isVoiceOverPlayed: 0

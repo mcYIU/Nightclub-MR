@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829a53fd46c3974fa9121c6b519f924, type: 3}
+  m_Name: WuKY_LV0
+  m_EditorClassIdentifier: 
+  voiceOverText:
+  - "\u4ED6\u662F\u4E00\u500B\u6210\u529F\u7684\u5546\u4EBA\uFF0C\u9760\u6295\u6A5F\u7092\u80A1\u6210\u70BA.\u300C\u91D1\u5B50\u5927\u738B\u300D\uFF0C\u5750\u64C1\u516B\u5341\u842C\u5BB6\u7522\u3002"
+  - "\u5728\u4E00\u4E5D\u4E09\u4E8C\u5E74\u56DB\u6708\u516D\u65E5\u7684\u661F\u671F\u516D\u4E0B\u5348\uFF0C\u4ED6\u5728\u91D1\u696D\u4EA4\u6613\u6240\u88E1\u8F38\u5149\u4E86\u6240\u6709\u3002"
+  - "\u906D\u6B64\u5DE8\u8B8A\u5F8C\uFF0C\u665A\u4E0A\u4ED6\u8DDF\u4EA4\u969B\u82B1\u9EC3\u9EDB\u831C\u8D70\u9032\u591C\u7E3D\u6703\uFF0C\u8A66\u5716\u767C\u6D29\u81EA\u5DF1\u7684\u6101\u60B6\u3002"
+  voiceOverAudio: {fileID: 8300000, guid: 2b45b3973e843254cb6dbc116a399f58, type: 3}
+  characterText:
+  - "\u5728\u4EA4\u6613\u6240\uFF0C\u6211\u8F38\u4E86\u6240\u6709\u7684\u9322\uFF0C\u90A3\u53C8\u600E\u6A23\uFF1F"
+  - "\u8AAA\u8D77\u4F86\uFF0C\u9322\u4E5F\u5C31\u548C\u7D19\u4E00\u6A23\uFF0C\u98A8\u4E00\u5439\uFF0C"
+  - "\u4E00\u77AC\u9593\uFF0C\u4EC0\u9EBC\u90FD\u6C92\u4E86\uFF0C\u547C\uFF0C\u50CF\u5922\u4E00\u6A23\u3002"
+  characterAudio: {fileID: 8300000, guid: e3bd7ab652144264c8bca67e80abbf22, type: 3}
+  isVoiceOverPlayed: 0
